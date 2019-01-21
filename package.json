@@ -1,0 +1,22 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dvnnorth/hello-next.git",
+  "author": "dvnnorth <13654540+dvnnorth@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}
